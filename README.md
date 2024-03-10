@@ -1,6 +1,7 @@
 # Minha tentativa de realizar o desafio do workshop da fábrica.
-## Requerimentos: 
 ## Url:http://127.0.0.1:8000/
+## Requerimentos:
+
 Django==3.2.23
 Unipath==1.1
 coverage==4.5.4
